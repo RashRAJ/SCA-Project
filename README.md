@@ -1,5 +1,4 @@
 # SCA-Project
+A countless number of people drive on the highway day and night. Taxi drivers, bus drivers, truck drivers and people traveling long-distance suffer from lack of sleep. Due to which it becomes very dangerous to drive when feeling sleepy.
 
-A driver drowsiness detection system, that detects if a driver is drowsy and raise an alarm to alert the driver
-
-The model was created using transfer learning,and open CV
+The majority of accidents happen due to the drowsiness of the driver. So, to prevent these accidents I built a system using Python, OpenCV, and Keras which will alert the driver when he feels sleepy
